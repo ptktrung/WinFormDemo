@@ -45,3 +45,4 @@ C:\Users\ptktr\Documents\GitHub\WinFormDemo\Lab06\bin\Debug\Lab06.exe
 C:\Users\ptktr\Documents\GitHub\WinFormDemo\Lab06\bin\Debug\Lab06.pdb
 C:\Users\ptktr\Documents\GitHub\WinFormDemo\Lab06\obj\Debug\Lab06.Properties.Resources.resources
 C:\Users\ptktr\Documents\GitHub\WinFormDemo\Lab06\obj\Debug\Lab06.csproj.CoreCompileInputs.cache
+C:\Users\ptktr\Documents\GitHub\WinFormDemo\Lab06\obj\Debug\Lab06.Form4.resources

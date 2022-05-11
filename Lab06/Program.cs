@@ -16,7 +16,8 @@ namespace Lab06
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmOneManyInput());
+            //Application.Run(new frmOneManyInput());
+            Application.Run(new Form1());
         }
     }
 }
